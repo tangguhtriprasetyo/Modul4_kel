@@ -1,0 +1,13 @@
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\bin\Debug\netcoreapp3.1\Modul4_kelxx.exe
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\bin\Debug\netcoreapp3.1\Modul4_kelxx.deps.json
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\bin\Debug\netcoreapp3.1\Modul4_kelxx.runtimeconfig.json
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\bin\Debug\netcoreapp3.1\Modul4_kelxx.runtimeconfig.dev.json
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\bin\Debug\netcoreapp3.1\Modul4_kelxx.dll
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\bin\Debug\netcoreapp3.1\Modul4_kelxx.pdb
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\obj\Debug\netcoreapp3.1\Modul4_kelxx.csprojAssemblyReference.cache
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\obj\Debug\netcoreapp3.1\Modul4_kelxx.csproj.CoreCompileInputs.cache
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\obj\Debug\netcoreapp3.1\Modul4_kelxx.AssemblyInfoInputs.cache
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\obj\Debug\netcoreapp3.1\Modul4_kelxx.AssemblyInfo.cs
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\obj\Debug\netcoreapp3.1\Modul4_kelxx.dll
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\obj\Debug\netcoreapp3.1\Modul4_kelxx.pdb
+D:\Tangguh\Kuliah\DKP\Modul4_kelxx\Percobaan_C#\Modul4_kelxx\obj\Debug\netcoreapp3.1\Modul4_kelxx.genruntimeconfig.cache
